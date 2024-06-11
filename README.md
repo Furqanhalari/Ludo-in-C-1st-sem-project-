@@ -6,4 +6,5 @@ The objective of the Ludo project is the implementation of a text-based version 
 3.	Players will be able to compete on the same device.
 4.	The game will be played with one dice.
 5.	The player who made all (4) his tokens to the center will win the game.
+
 The game will be developed by only using C language. No framework will be used. Windows operating system will be used.
